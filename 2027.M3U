@@ -305,12 +305,24 @@ http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/316112.ts
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/401843.ts
 #EXTINF:-1 tvg-name="DSPORTS 1  CL (11-3-27)"tvg-id=""tvg-logo="http://mundo2.pro:80/images/d2ad216413ee431a3b53c6fdcd4eb1e4.png"group-title="06 DSPORTS",DSPORTS 1  CL (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/360918.ts
+#EXTINF:-1 tvg-name="DSPORTS 1 PE HD (11-3-27)"tvg-id="610DTSA.ar"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU"group-title="06 DSPORTS",DSPORTS 1 PE HD (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/50724.ts
+#EXTINF:-1 tvg-name="DSPORTS 1 PE SD (11-3-27)"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU"group-title="06 DSPORTS",DSPORTS 1 PE SD (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/417690.ts
 
 #EXTINF:-1 tvg-name="DSPORTS 2 (11-3-27)"tvg-id=""tvg-logo="http://mundo2.pro:80/images/c21cfb4efedde58a4b0873c8fd7b00fe.png"group-title="06 DSPORTS",DSPORTS 2 (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/360939.ts
+#EXTINF:-1 tvg-name="DSPORTS 2 AR HD (11-3-27)"tvg-id="612DTS2.ar"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU"group-title="06 DSPORTS",DSPORTS 2 AR HD (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/50725.ts
+#EXTINF:-1 tvg-name="DSPORTS 2 AR (11-3-27)"tvg-id="613DTSPlus.ar"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU"group-title="06 DSPORTS",DSPORTS 2 AR (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/50726.ts
 
 #EXTINF:-1 tvg-name="DSPORTS + (11-3-27)"tvg-id=""tvg-logo="http://mundo2.pro:80/images/286f0d8e650516d4c2d117afe1832ded.png"group-title="06 DSPORTS",DSPORTS + (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/360940.ts
+#EXTINF:-1 tvg-name="DSPORTS + AR HD (11-3-27)"tvg-id="612DTS2.ar"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU"group-title="06 DSPORTS",DSPORTS + AR HD (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/54471.ts
+#EXTINF:-1 tvg-name="DSPORTS + AR (11-3-27)"tvg-id="613DTSPlus.ar"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU"group-title="06 DSPORTS",DSPORTS + AR (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/54472.ts
 
 #EXTINF:-1 tvg-name="FOX SPORTS 1 AR HD (11-3-27)"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU"group-title="07 DEPORTES",FOX SPORTS 1 AR HD (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/50506.ts
