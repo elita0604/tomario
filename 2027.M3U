@@ -1,4 +1,10 @@
 ﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uy/mi.tv.xml.gz"
+
+#EXTINF:-1, Vtv Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlhd.vynx.workers.dev/play/391?key=vynx
+
+
 #EXTINF:-1 tvg-name="GRAN HERMANO 24/7 (11-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO 24/7 (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454926.ts
 #EXTINF:-1 tvg-name="GRAN HERMANO CAM 1 (11-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO CAM 1 (11-3-27)
