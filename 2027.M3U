@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uy/programacion.tcc.com.uy.xml.gz"
+﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uy/mi.tv.xml.gz"
 #EXTINF:-1 tvg-name="GRAN HERMANO 24/7 (11-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO 24/7 (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454926.ts
 #EXTINF:-1 tvg-name="GRAN HERMANO CAM 1 (11-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO CAM 1 (11-3-27)
