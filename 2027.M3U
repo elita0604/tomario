@@ -1,22 +1,41 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywzr13sw36w2nx1w"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO 24/7 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO 24/7 (11-3-27)
-http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454926.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO CAM 1 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO CAM 1 (11-3-27)
-http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454927.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO CAM 2 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO CAM 2 (11-3-27)
-http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454928.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO CAM 3 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO CAM 3 (11-3-27)
-http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454929.ts
+
+#EXTINF:-1 tvg-name="GRAN HERMANO MULTICAMARA (1-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO MULTICAMARA (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/454930.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO MULTICAMARA (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO MULTICAMARA (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454930.ts
+
+#EXTINF:-1 tvg-name="GRAN HERMANO 24/7 (1-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO 24/7 (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/454926.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO 24/7 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO 24/7 (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454926.ts
+#EXTINF:-1 tvg-name="GRAN HERMANO 24/7 (1-3-27)"tvg-id=""tvg-logo="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.ciudad.com.ar%2Fresizer%2Fv2%2Fgran-hermano-2026-todo-lo-que-se-sabe-sobre-la-nueva-edicion-generacion-dorada-credito-telefe-XF3TUX2NKRGN7CZS4D5EITDPPM.jpg%3Fauth%3Ddd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11%26width%3D767&sp=1772030580Tc59063515b1f3f0e93f7cde59dcfbea6cd62f283df118488f885c97975425d78"group-title="01 Gran Hermano",GRAN HERMANO 24/7 (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/453157.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO (11-3-27)" tvg-logo="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.ciudad.com.ar%2Fresizer%2Fv2%2Fgran-hermano-2026-todo-lo-que-se-sabe-sobre-la-nueva-edicion-generacion-dorada-credito-telefe-XF3TUX2NKRGN7CZS4D5EITDPPM.jpg%3Fauth%3Ddd61427fff3dd9df9ce5c2aaf4" group-title="01 Gran Hermano",GRAN HERMANO (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/453157.ts
+
+#EXTINF:-1 tvg-name="GRAN HERMANO CAM 1 (1-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO CAM 1 (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/454927.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO CAM 1 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO CAM 1 (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454927.ts
+
+#EXTINF:-1 tvg-name="GRAN HERMANO CAM 2 (1-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO CAM 2 (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/454928.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO CAM 2 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO CAM 2 (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454928.ts
+
+#EXTINF:-1 tvg-name="GRAN HERMANO CAM 3 (1-3-27)"tvg-id=""tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg"group-title="01 Gran Hermano",GRAN HERMANO CAM 3 (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/454929.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO CAM 3 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO CAM 3 (11-3-27)
+http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454929.ts
+
 #EXTINF:-1 tvg-id="Telefe(src09).uy" tvg-name="TELEFE HD ¹ (11-3-27)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="02 TELEFE",TELEFE HD ¹ (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/81285.ts
 #EXTINF:-1 tvg-id="Telefe(src09).uy" tvg-name="TELEFE HD ² (11-3-27)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="02 TELEFE",TELEFE HD ² (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/50510.ts
 #EXTINF:-1 tvg-id="Telefe(src09).uy" tvg-name="TELEFE FHD (11-3-27)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="02 TELEFE",TELEFE FHD (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/50521.ts
+
 #EXTINF:-1 tvg-id="Canal4(src09).uy" tvg-name="CANAL 4 HD (22-1-27)" tvg-logo="http://185.39.50.222:36995/images/d6e9b1f5db6b50803ed48a27ce847dbb.jpg" group-title="03 URUGUAY",CANAL 4 HD (22-1-27)
 http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61933
 #EXTINF:-1 tvg-id="Canal4(src09).uy" tvg-name="CANAL 4 (22-1-27)" tvg-logo="http://185.39.50.222:36995/images/d6e9b1f5db6b50803ed48a27ce847dbb.jpg" group-title="03 URUGUAY",CANAL 4 (22-1-27)
