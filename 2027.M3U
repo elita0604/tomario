@@ -29,6 +29,34 @@ http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/454929.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO CAM 3 (11-3-27)" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="01 Gran Hermano",GRAN HERMANO CAM 3 (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/454929.ts
 
+#EXTINF:-1 tvg-name="TELEFE FHD (22-1-27)"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"group-title="02 TELEFE",TELEFE FHD (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61545
+#EXTINF:-1 tvg-name="TELEFE HD (22-1-27)"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"group-title="02 TELEFE",TELEFE HD (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61544
+#EXTINF:-1 tvg-name="TELEFE HD (22-1-27)"tvg-id=""tvg-logo="http://daleplay.biz:8080/images/772cff44a570f0c7f2b0fdf0803d9842.png"group-title="02 TELEFE",TELEFE HD (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/53226
+#EXTINF:-1 tvg-name="TELEFE HD (22-1-27)"tvg-id=""tvg-logo=""group-title="02 TELEFE",TELEFE HD (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61548
+#EXTINF:-1 tvg-name="TELEFE HD (22-1-27)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"group-title="02 TELEFE",TELEFE HD (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61549
+#EXTINF:-1 tvg-name="TELEFE HD (22-1-27)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"group-title="02 TELEFE",TELEFE HD (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61550
+#EXTINF:-1 tvg-name="TELEFE SD (22-1-27)"tvg-id=""tvg-logo="http://daleplay.biz:8080/images/772cff44a570f0c7f2b0fdf0803d9842.png"group-title="02 TELEFE",TELEFE SD (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/53225
+#EXTINF:-1 tvg-name="TELEFE (22-1-27)"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/ee087e31-a99a-4bcd-a2ea-411028f12a48_m.jpg"group-title="02 TELEFE",TELEFE (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61546
+#EXTINF:-1 tvg-name="TELEFE (22-1-27)"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"group-title="02 TELEFE",TELEFE (22-1-27)
+http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61547
+#EXTINF:-1 tvg-name="TELEFE ROSARIO (22-1-27)"tvg-id=""tvg-logo="https://cdn.m3u.cl/logo/246_Telefe_Rosario.jpg"group-title="02 TELEFE",TELEFE ROSARIO (22-1-27)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3U
+#EXTINF:-1 tvg-name="TELEFE SALTA (22-1-27)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/512px-Telefe_Salta_%282018%29.png"group-title="02 TELEFE",TELEFE SALTA (22-1-27)
+https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+#EXTINF:-1 tvg-name="TELEFE FHD (1-3-27)"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU"group-title="02 TELEFE",TELEFE FHD (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/50521.ts
+#EXTINF:-1 tvg-name="TELEFE HD ¹ (1-3-27)"tvg-id="123dtv.ar"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU"group-title="02 TELEFE",TELEFE HD ¹ (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/81285.ts
+#EXTINF:-1 tvg-name="TELEFE HD ² (1-3-27)"tvg-id="123dtv.ar"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU"group-title="02 TELEFE",TELEFE HD ² (1-3-27)
+http://mundo2.vip:80//live/fernandorojas23/rojasfernado23/50510.ts
 #EXTINF:-1 tvg-id="Telefe(src09).uy" tvg-name="TELEFE HD ¹ (11-3-27)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="02 TELEFE",TELEFE HD ¹ (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/81285.ts
 #EXTINF:-1 tvg-id="Telefe(src09).uy" tvg-name="TELEFE HD ² (11-3-27)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="02 TELEFE",TELEFE HD ² (11-3-27)
@@ -50,8 +78,10 @@ http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/52810.ts
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/52811.ts
 #EXTINF:-1 tvg-id="Canal4(src09).uy" tvg-name="CANAL 4  ꜱᴅ (11-3-27)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo3xFdkhqdzEnQZMReH-5vaSeH_iIHhlp2jli-ImEb7w&s=10" group-title="03 URUGUAY",CANAL 4  ꜱᴅ (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/52812.ts
+
 #EXTINF:-1 tvg-id="Canal5(src09).uy" tvg-name="CANAL 5 ʜᴅ (I) (11-3-27)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhgMPWVm4VgzwePzg5__BiAehavyNecnvyMZ0eSqa-A&s=10" group-title="03 URUGUAY",CANAL 5 ʜᴅ (I) (11-3-27)
 http://mundo2.vip:80//live/btvbol6ef37/uejwbrbnqrg/135976.ts
+
 #EXTINF:-1 tvg-id="TVCiudad(src09).uy" tvg-name="TV CIUDAD (22-1-27)" tvg-logo="http://185.39.50.222:36995/images/2f33ff401d022ee7ff8e508b5e4c15c6.png" group-title="03 URUGUAY",TV CIUDAD (22-1-27)
 http://ultrapremium.cloud:8080/14089039526wspzero/230221zero/61940
 #EXTINF:-1 tvg-id="TVCiudad(src09).uy" tvg-name="TV CIUDAD (22-1-27)" tvg-logo="http://185.39.50.222:36995/images/2f33ff401d022ee7ff8e508b5e4c15c6.png" group-title="03 URUGUAY",TV CIUDAD (22-1-27)
